@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HoraSistema",
+            "request": "launch",
+            "mainClass": "HoraSistema",
+            "projectName": "ExeciciosDeJAVA_a372082d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
